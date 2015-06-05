@@ -31,5 +31,18 @@ Que sistema de autenticación se utilizarian en la plataforma para autenticació
 R:
 F: Token? SMS? llamada a telefono? correo?
 
-continua...
+Que plataforma base se utilizaria?
+R:
+F: owncloud?
 
+Que framework se utilizaria para la plataforma?
+R:
+F:
+
+Que tecnologias para personas condiscapacidad tendria incluida la plataforma?
+R:
+F:
+
+Que tecnologias de asistencia para personas condiscapacidad tendria incluida la plataforma?
+R:
+F:
