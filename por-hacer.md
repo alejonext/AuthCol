@@ -15,34 +15,34 @@ F: Se requerira sistema de analitica para llevar estadisticas de acceso y saber 
 R:
 F: F: Se requerira sistema de analitica para llevar estadisticas de acceso y saber en que momento del dia se debera atribuir mayor poder computacional o crecimiento elastico
 
-Que sistema de autenticación se utilizarian en la plataforma?
+- Que sistema de autenticación se utilizarian en la plataforma?
 R:
 F: que nivel de cifrado de contraseñas se utilizaria al almazenarlas y que nivel de cifrado se utilizaria en SSL
 
-Que tipo de capcha se utilizarian en la plataforma?
+- Que tipo de capcha se utilizarian en la plataforma?
 R:
 F:
 
-Que sistema de autenticación se utilizarian en la plataforma de tipo externo?
+- Que sistema de autenticación se utilizarian en la plataforma de tipo externo?
 R:
 F: autenticación con [linkedin|google|twitter|facebook|openid]
 
-Que sistema de autenticación se utilizarian en la plataforma para autenticación de doble factor?
+- Que sistema de autenticación se utilizarian en la plataforma para autenticación de doble factor?
 R:
 F: Token? SMS? llamada a telefono? correo?
 
-Que plataforma base se utilizaria?
+- Que plataforma base se utilizaria?
 R:
 F: owncloud?
 
-Que framework se utilizaria para la plataforma?
+- Que framework se utilizaria para la plataforma?
 R:
 F:
 
-Que tecnologias para personas condiscapacidad tendria incluida la plataforma?
+- Que tecnologias para personas condiscapacidad tendria incluida la plataforma?
 R:
 F:
 
-Que tecnologias de asistencia para personas condiscapacidad tendria incluida la plataforma?
+- Que tecnologias de asistencia para personas condiscapacidad tendria incluida la plataforma?
 R:
 F:
