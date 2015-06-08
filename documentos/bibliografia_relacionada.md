@@ -5,7 +5,7 @@
 * convocatoria mintic julio-agosto 'nube pública' [ver](https://www.contratos.gov.co/consultas/detalleProceso.do?numConstancia=14-1-120568)
 * acuerdos de marcos de precios prontos a realizarse [ver](http://www.mintic.gov.co/portal/604/w3-article-6555.html)
 * tipo de servicio(oro-plata), modificaciones [ver](www.colombiacompra.gov.co/sites/default/files/procesos_contratacion/amp-nube-publica/definitivos/adenda/Anexo-4-Fichas-tecnicas-y-Requisitos-Minimos.xlsx)
-
+* presentación MinTIC sobre el proyecto [ver](https://dl.dropboxusercontent.com/u/629628/RedPaTodos/Presentacion%20Carpeta%20Ciudadana%20CB%20020615.pptx)
 
 ##Ley de transparecia y acceso a la información 
 
@@ -18,11 +18,9 @@
 * Plan de Gobierno 2014-2018 [ver](http://www.olapolitica.com/content/santos-lanza-plan-de-gobierno-2014-2018)
 * PLAN DE ACCIÓN DEL GOBIERNO DE COLOMBIA [ver](http://wsp.presidencia.gov.co/secretaria-transparencia/Documents/Plan%20de%20Acci%C3%B3n%20del%20Gobierno%20de%20Colombia%20OGP.pdf)
 
-
 ##Información en medios de comunicación:
 
 * articulo revista semana [ver](http://www.semana.com/tecnologia/articulo/cada-colombiano-tendra-un-email-oficial/402110-3)
-
 
 ##Convocatorias
 
@@ -31,9 +29,7 @@
 * http://www.colciencias.gov.co/sites/default/files/upload/documents/adjudicacion_invitacion_003_1.pdf  (Adjudicado Indenova)
 * y quien es indenova? el Contratista de Ministerio de Defensa. https://www.mindefensa.gov.co/SedeElectronica/ miren el pie de pagina.
 
-
 ##Legislacion sobre manejo de información:
-
 
 ###registros medicos
 
@@ -47,22 +43,24 @@
 * https://apps.co 
 * http://verifique.se/ y http://verifique.se/que-es-verifique-se/
 * https://apps.co/search/?q=verifiquese
-*Infografia Gestion documental http://www.preservandoparaelfuturo.org/publicaciones/infoDec2609.pdf
-
+* Infografia Gestion documental http://www.preservandoparaelfuturo.org/publicaciones/infoDec2609.pdf
 
 ##Casos de abusos ocasionados por sistemas big_data:
-    
 
 * uso de información con fines indebidos [ver 8 primeros minutos](http://www.youtube.com/watch?v=8Id5cF5M1fU)
 * comercialización por parte de particulares de información privada[ver](http://www.washingtonpost.com/world/national-security/nsa-paying-us-companies-for-access-to-communications-networks/2013/08/29/5641a4b6-10c2-11e3-bdf6-e4fc677d94a1_story.html)
-
    
 ##Seguridad Informatica:
 
-*articulo sobre ataques informaticos en latinoamerica [ver](http://www.vanguardia.com/actualidad/colombia/250540-98-de-empresas-colombianas-son-victimas-de-ataques-informaticos)
-*la información medica es mas codiciada que las tarjetas de credito para hacer fraude [ver](http://es.reuters.com/article/esEuroRpt/idESL6N0RR11D20140927)
-*caso de los estudiantes fantasma [ver](http://www.elpais.com.co/elpais/colombia/noticias/ministerio-encontro-561277-alumnos-fantasma-todo-pais)
-*identidades descentralizadas [ver](http://www.coindesk.com/20-bitcoin-companies-backing-new-deal-digital-identity/)
+* articulo sobre ataques informaticos en latinoamerica [ver](http://www.vanguardia.com/actualidad/colombia/250540-98-de-empresas-colombianas-son-victimas-de-ataques-informaticos)
+* la información medica es mas codiciada que las tarjetas de credito para hacer fraude [ver](http://es.reuters.com/article/esEuroRpt/idESL6N0RR11D20140927)
+* caso de los estudiantes fantasma [ver](http://www.elpais.com.co/elpais/colombia/noticias/ministerio-encontro-561277-alumnos-fantasma-todo-pais)
+* identidades descentralizadas [ver](http://www.coindesk.com/20-bitcoin-companies-backing-new-deal-digital-identity/)
 
+##Proyectos de Correo seguro
 
+* e-mail seguro basado en lavabit [ver](https://darkmail.info/downloads/dark-internet-mail-environment-december-2014.pdf)
 
+##Proyectos similares a carpeta ciudadana
+
+* Electronic proof of identity - Gobierno de Alemania [ver](http://www.bmi.bund.de/EN/Topics/IT-Internet-Policy/New-Identity-Card/new-identity-card_node.html)
